@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FuriganaView">
+        <attr name="android:text"/>
+        <attr name="android:maxLines"/>
+        <attr name="android:textAlignment"/>
+        <attr name="android:lineSpacingExtra"/>
+        <attr name="android:layout_marginEnd"/>
+        <attr name="android:layout_marginLeft"/>
+        <attr name="android:layout_marginRight"/>
+        <attr name="android:layout_marginStart"/>
+        <attr name="furiganaSize" format="dimension"/>
+    </declare-styleable>
+</resources>
